@@ -1,24 +1,24 @@
 title: Eric Martínez
-email: ericmartinezf@hotmail.com
-description: > # this means to ignore newlines until "baseurl:"
-  Eric Martínez
+email: contacto@ericmartinezf.com
+description: Ingeniero Informático, aficionado por los deportes y el aprendizaje continuo.
+# this means to ignore newlines until "baseurl:"
 permalink: ':title/'
 baseurl: # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Author settings
 author: Eric Martínez # add your name
-author-pic: 
-about-author: Hi
+author-pic:
+about-author: Ingeniero Informático, aficionado por los deportes y el aprendizaje continuo.
 
 # Contact links
-email: # Add your Email address
+email: contacto@ericmartinezf.com # Add your Email address
 phone: # Add your Phone number
-website: # Add your website, do not add http://
-linkedin: # Add your Linkedin handle
+website: https://ericmartinezf.com # Add your website, do not add http://
+linkedin: ericmartinezf # Add your Linkedin handle
 github: ericmartinezf # Add your Github handle
 twitter: '@ericmartinezf' # Add your Twitter handle
-facebook: # Add your Facebook handle
+facebook: ericmartinezf # Add your Facebook handle
 instagram: ericmartinezf # Add your Instagram handle
 pinterest: # Add your Pinterest handle
 
@@ -29,7 +29,7 @@ mailchimp: # Add your MailChimp form identifier.
 discus_identifier: ericmartinezf # Add your discus identifier
 
 # Tracker
-analytics: # Google Analytics
+analytics: UA-115466682-1 # Google Analytics
 
 # Paginate
 paginate: 6
